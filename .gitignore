@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Conda environments (if created in project dir)
+env/
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
+# Cache and logs
+*.log
+*.sqlite
+*.db
+*.h5
+*.egg-info/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+
